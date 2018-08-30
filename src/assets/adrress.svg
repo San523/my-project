@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="21px" viewBox="0 0 15 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Pin-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="小程序2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="培训班详情" transform="translate(-14.000000, -185.000000)">
+            <rect fill="#ffffff" x="0" y="0" width="375" height="667"></rect>
+            <g id="Group-3" transform="translate(0.000000, 173.000000)">
+                <g id="Pin-2" transform="translate(10.000000, 10.000000)">
+                    <rect id="Container" x="0" y="0.136611701" width="24" height="23.7525773"></rect>
+                    <g id="Shape" transform="translate(5.500000, 2.969072)" stroke="#00C58C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                        <path d="M5.275525,4.43089485 C6.122925,4.00938557 7.3686,4.0849732 7.91205,5.2243299 C8.259775,5.95333608 8.07685,7.25750103 7.064575,7.76578144 C6.166925,8.21653608 4.78485,7.82615258 4.42805,6.62523711 C4.07125,5.42432165 4.828075,4.6534268 5.275525,4.43089485 L5.275525,4.43089485 Z"></path>
+                        <path d="M5.811525,0.0766268041 C11.612975,-0.220329897 13.080625,4.81942268 12.213125,7.99618144 C11.212875,11.6589526 7.1118,18.1925443 6.311625,18.1925443 C5.405875,18.1925443 1.2103,11.4609649 0.410125,8.39213196 C-0.467525,5.02631753 0.01,0.373608247 5.811525,0.0766268041 L5.811525,0.0766268041 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,58 @@
+@import "/static/css/vendor.wxss";
+
+.header.data-v-7379f82a {
+  display: flex;
+  justify-content: center;
+  align-items: Center;
+  margin-top: 20rpx;
+  width: 100%;
+}
+.listAll.data-v-7379f82a {
+  border-bottom: 2rpx solid #EFF2F7;
+  margin-top: 20rpx;
+}
+.header ._img.data-v-7379f82a {
+  width: 90rpx;
+  height: 40rpx;
+  display: inline-block;
+}
+.header ._span.data-v-7379f82a {
+  vertical-align: middle;
+  line-height: 32rpx;
+  font-size: 32rpx;
+  color: #1F2D3D;
+  font-weight: bold;
+  margin: 10rpx 22rpx;
+  font-family: PingFangSC-Medium;
+}
+.list.data-v-7379f82a {
+  box-shadow: 0 -2rpx 0 0 rgba(239, 242, 247, 1);
+  display: flex;
+  padding: 20rpx 20rpx;
+  background: #FFFFFF;
+}
+.list ._img.data-v-7379f82a {
+  width: 144rpx;
+  height: 144rpx;
+  box-shadow: 0 4rpx 8rpx 0 rgba(0, 0, 0, 0.2);
+  border-radius: 80rpx;
+  border: 2rpx solid rgba(255, 255, 255, 1);
+}
+.content.data-v-7379f82a {
+  padding: 0 20rpx;
+  width: 100%;
+}
+.name.data-v-7379f82a {
+  color: #475669;
+  font-size: 32rpx;
+  margin-bottom: 20rpx;
+}
+.name ._span.data-v-7379f82a {
+  float: right;
+  color: #00C58C;
+  font-size: 24rpx;
+}
+.adrress.data-v-7379f82a {
+  color: #5E6D82;
+  font-size: 28rpx;
+}

@@ -1,0 +1,41 @@
+<template name="index$dfb425b6">
+  <view class="_div data-v-89ed7994 container">
+    <view class="_div data-v-89ed7994 title">
+      <view class="_div data-v-89ed7994 titleTex">
+        <view class="_p data-v-89ed7994">鸿途教育</view>
+        <label class="_span data-v-89ed7994">主营：美术培训、少儿托管</label>
+      </view>
+      <image src="/copy-asset/assets/userImg.png" class="_img data-v-89ed7994"></image>
+    </view>
+    <view class="_div data-v-89ed7994 borderTop">
+      <view class="_div data-v-89ed7994 adrress" bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}">
+        <view class="_div data-v-89ed7994 flex">
+          <image class="_img data-v-89ed7994 icon" src="/copy-asset/assets/adrress.svg"></image>
+          <label class="_span data-v-89ed7994 content">湖北省武汉市蔡甸区汉阳大道3545工厂恒大xxxxxxxxxxxxxxxxxxxxx</label>
+        </view>
+        <image class="_img data-v-89ed7994 arrow" src="/copy-asset/assets/Back.svg"></image>
+      </view>
+      <view class="_div data-v-89ed7994 adrress" bindtap="handleProxy" data-eventid="{{'1'}}" data-comkey="{{$k}}">
+        <view class="_div data-v-89ed7994 flex">
+          <image class="_img data-v-89ed7994 icon" src="/copy-asset/assets/phone.svg"></image>
+          <label class="_span data-v-89ed7994 content">027-84989887</label>
+        </view>
+        <image class="_img data-v-89ed7994 arrow" src="/copy-asset/assets/Back.svg"></image>
+      </view>
+      <view class="_div data-v-89ed7994 showPic">
+        <view class="_div data-v-89ed7994 flex">
+          <image class="_img data-v-89ed7994 icon" src="/copy-asset/assets/Camera.svg"></image>
+          <label class="_span data-v-89ed7994 content">门店照片</label>
+        </view>
+        <view class="_div data-v-89ed7994 imgalist">
+          <view class="_div data-v-89ed7994 previewimg" wx:for="{{imgalist}}" wx:for-index="index" wx:for-item="img">
+            <image src="{{img}}" bindtap="handleProxy" data-eventid="{{'2-'+index}}" data-comkey="{{$k}}" class="_img data-v-89ed7994"></image>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view class="_div data-v-89ed7994 bottom">
+      <label bindtap="handleProxy" data-eventid="{{'3'}}" data-comkey="{{$k}}" class="_span data-v-89ed7994">问题反馈</label>
+    </view>
+  </view>
+</template>

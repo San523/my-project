@@ -1,0 +1,4 @@
+<template name="index$ebc82bc8">
+  <view style wx:if="{{show}}" class="_view data-v-d213748a {{textClass}}">
+    <image src="{{icon}}" wx:if="{{icon}}" class="_image data-v-d213748a {{iconClass}}"></image> {{text}} </view>
+</template>

@@ -1,0 +1,22 @@
+<template name="index$b572e5ce">
+  <view class="_div data-v-7379f82a container">
+    <view class="_div data-v-7379f82a header">
+      <image src="/copy-asset/assets/headerRight.png" class="_img data-v-7379f82a"></image>
+      <label class="_span data-v-7379f82a">附 / 近 / 好 / 班</label>
+      <image src="/copy-asset/assets/headerLeft.png" class="_img data-v-7379f82a"></image>
+    </view>
+    <view class="_div data-v-7379f82a listAll">
+      <view class="_div data-v-7379f82a list" bindtap="handleProxy" data-eventid="{{'0-'+index}}" data-comkey="{{$k}}" wx:for="{{deTailData}}" wx:for-index="index" wx:for-item="item">
+        <view class="_div data-v-7379f82a">
+          <image src="{{item.titleimg}}" class="_img data-v-7379f82a"></image>
+        </view>
+        <view class="_div data-v-7379f82a content">
+          <view class="_div data-v-7379f82a name">{{item.classname}}
+            <label class="_span data-v-7379f82a">{{item.distance}}米</label>
+          </view>
+          <view class="_div data-v-7379f82a adrress">{{item.classadrress}}</view>
+        </view>
+      </view>
+    </view>
+  </view>
+</template>

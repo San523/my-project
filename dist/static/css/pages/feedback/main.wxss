@@ -1,0 +1,22 @@
+@import "/static/css/vendor.wxss";
+
+.title.data-v-0d2fd752 {
+  padding: 20rpx 20rpx;
+}
+.title ._span.data-v-0d2fd752 {
+  font-size: 28rpx;
+  color: #8492A6;
+}
+.quslist.data-v-0d2fd752 {
+  display: flex;
+  padding: 0 20rpx;
+  height: 88rpx;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2rpx solid #EFF2F7;
+}
+.quslist ._span.data-v-0d2fd752 {
+  font-size: 32rpx;
+  color: #475669;
+  line-height: 32rpx;
+}

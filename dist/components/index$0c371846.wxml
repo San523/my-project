@@ -1,0 +1,29 @@
+<template name="index$0c371846">
+  <view class="_div data-v-0d2fd752 container">
+    <view class="_div data-v-0d2fd752 title">
+      <label class="_span data-v-0d2fd752">请选择要反馈的问题</label>
+    </view>
+    <view class="_div data-v-0d2fd752 borderTop">
+      <view class="_div data-v-0d2fd752 quslist" bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}">
+        <label class="_span data-v-0d2fd752">地点不存在</label>
+        <image class="_img data-v-0d2fd752 arrow" src="/copy-asset/assets/Back.svg"></image>
+      </view>
+      <view class="_div data-v-0d2fd752 quslist">
+        <label class="_span data-v-0d2fd752">门店已关闭</label>
+        <image class="_img data-v-0d2fd752 arrow" src="/copy-asset/assets/Back.svg"></image>
+      </view>
+      <view class="_div data-v-0d2fd752 quslist">
+        <label class="_span data-v-0d2fd752">门店信息有误</label>
+        <image class="_img data-v-0d2fd752 arrow" src="/copy-asset/assets/Back.svg"></image>
+      </view>
+      <view class="_div data-v-0d2fd752 quslist">
+        <label class="_span data-v-0d2fd752">门店违规</label>
+        <image class="_img data-v-0d2fd752 arrow" src="/copy-asset/assets/Back.svg"></image>
+      </view>
+      <view class="_div data-v-0d2fd752 quslist">
+        <label class="_span data-v-0d2fd752">我是该门店店主</label>
+        <image class="_img data-v-0d2fd752 arrow" src="/copy-asset/assets/Back.svg"></image>
+      </view>
+    </view>
+  </view>
+</template>

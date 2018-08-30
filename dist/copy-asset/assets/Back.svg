@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="16px" viewBox="0 0 10 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Back Chevron</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="小程序2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="培训班详情" transform="translate(-355.000000, -187.000000)">
+            <rect fill="#ffffff" x="0" y="0" width="375" height="667"></rect>
+            <g id="Group-3" transform="translate(0.000000, 173.000000)" fill="#D3DCE6">
+                <polygon id="Back-Chevron" transform="translate(360.000000, 22.000000) scale(-1, 1) translate(-360.000000, -22.000000) " points="355 22 363.4 14 365 15.5238095 358.2 22 365 28.4761905 363.4 30"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

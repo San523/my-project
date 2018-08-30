@@ -1,0 +1,33 @@
+<template name="index$115d1086">
+  <view class="_div data-v-1bda80ce container">
+    <view class="_div data-v-1bda80ce title">
+      <label class="_span data-v-1bda80ce">反馈问题：</label>
+      <label class="_span data-v-1bda80ce">我是该门店店主</label>
+    </view>
+    <view class="_div data-v-1bda80ce selectB">
+      <view class="_div data-v-1bda80ce selectBox" bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}">
+        <view class="_div data-v-1bda80ce flex">
+          <label class="_span data-v-1bda80ce selectBtn {{select1}}"></label>
+          <label class="_span data-v-1bda80ce selectCot">门店信息不全，我要补全</label>
+        </view>
+      </view>
+      <view class="_div data-v-1bda80ce selectBox2" bindtap="handleProxy" data-eventid="{{'1'}}" data-comkey="{{$k}}">
+        <view class="_div data-v-1bda80ce flex">
+          <label class="_span data-v-1bda80ce selectBtn {{select2}}"></label>
+          <label class="_span data-v-1bda80ce selectCot">我不愿意门店信息出现在该平台上</label>
+        </view>
+      </view>
+      <view class="_div data-v-1bda80ce selectBox2" bindtap="handleProxy" data-eventid="{{'2'}}" data-comkey="{{$k}}">
+        <view class="_div data-v-1bda80ce flex">
+          <label class="_span data-v-1bda80ce selectBtn {{select3}}"></label>
+          <label class="_span data-v-1bda80ce selectCot">我想合作，提供更多功能和信息</label>
+        </view>
+      </view>
+    </view>
+    <view class="_div data-v-1bda80ce remark">
+      <textarea value="{{remark}}" bindinput="handleProxy" fixed="true" placeholder="请描述你的想法和提供您的联系方式，提交后，站长会尽快与您联系" data-eventid="{{'3'}}" data-comkey="{{$k}}" class="_textarea data-v-1bda80ce" />
+      <label class="_span data-v-1bda80ce">0/50</label>
+    </view>
+    <view class="_div data-v-1bda80ce submit"> 提交 </view>
+  </view>
+</template>

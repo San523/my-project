@@ -1,0 +1,9 @@
+<import src="index$0c448083" />
+<template name="index$1afd0966">
+  <view class="_div data-v-5eca2e54 container"> 我是首页
+    <button bindtap="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}" class="_button data-v-5eca2e54">弹窗测试</button>
+    <button bindtap="handleProxy" data-eventid="{{'1'}}" data-comkey="{{$k}}" class="_button data-v-5eca2e54">接口测试</button>
+    <button bindtap="handleProxy" data-eventid="{{'2'}}" data-comkey="{{$k}}" class="_button data-v-5eca2e54">页面跳转</button>
+    <template data="{{...$root[$kk+'0'], $root}}" is="index$0c448083"></template>
+  </view>
+</template>

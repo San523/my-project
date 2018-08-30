@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/nearbyFind/main",
+    "pages/counter/main",
+    "pages/feedback/main",
+    "pages/feedbackChoose/main",
+    "pages/index/main",
+    "pages/logs/main",
+    "pages/map/main",
+    "pages/test/main",
+    "pages/trainingClassDetails/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#00C58C",
+    "navigationBarTitleText": "有爱培优班精选",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": false
+  }
+}

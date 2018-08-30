@@ -1,0 +1,6 @@
+@import "/static/css/vendor.wxss";
+
+#container.data-v-7ec78720 {
+  min-width: 1200rpx;
+  min-height: 1534rpx;
+}
